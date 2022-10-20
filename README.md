@@ -1,4 +1,5 @@
-# lamzonJ-sayHello
-
+//Jessie Lamzon
+//10/17/22
 //GitHubChallenge / redo all mini challenges
-//Say Hello - data validation user input and play again
+//data validation user input and play again
+Peer Review:
